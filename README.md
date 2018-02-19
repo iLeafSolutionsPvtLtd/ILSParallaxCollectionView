@@ -1,6 +1,6 @@
 
 
-# ILSCloudKitManager
+# ILSParallaxCollectionView
 
 This Xcode project shows how to add a parallax Header view to a UITableView with horizontally scrollable UICollectionview for selecting images.
 
